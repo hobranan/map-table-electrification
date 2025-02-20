@@ -1,0 +1,3 @@
+streamlit run /workspaces/map-table-electrification/streamlit_app.py
+
+pip install streamlit folium streamlit-folium geopandas shapely
